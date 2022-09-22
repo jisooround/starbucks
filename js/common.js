@@ -18,3 +18,4 @@ searchInputEl.addEventListener('blur', function () {
 
 const thisYear = document.querySelector('.this-year');
 thisYear.textContent = new Date().getFullYear(); // 2021
+// /* 제발 바껴져줘!!! */
